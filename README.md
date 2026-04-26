@@ -32,8 +32,10 @@ Every model was tuned with GridSearchCV using 5-fold cross-validation on an 80/2
 * `requirements.txt`: Python dependencies
 
 ## How to Run
+```
 pip install -r requirements.txt
 jupyter notebook ml_project.ipynb
+```
 
 Then run all cells in order. Total runtime is roughly 3 to 5 minutes.
 
